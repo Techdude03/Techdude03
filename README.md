@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Techdude03
-- 👀 I’m interested in 3D printing, 3D modeling, and a bit of python coding
-- 🌱 I’m currently learning how to code well
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in 3D printing, 3D modeling, and a bit of lua coding
+- 🌱 I’m currently learning how to code better
+<!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
